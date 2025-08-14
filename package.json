@@ -1,0 +1,26 @@
+{
+  "name": "trabalho-hebert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./index.js localhost 3333"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SI-Sistemas-de-Informacao/trabalho-hebert.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SI-Sistemas-de-Informacao/trabalho-hebert/issues"
+  },
+  "homepage": "https://github.com/SI-Sistemas-de-Informacao/trabalho-hebert#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
